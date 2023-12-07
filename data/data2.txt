@@ -1,0 +1,19 @@
+{
+    "user_id": null,
+    "name": null,
+    "email": null,
+    "responses": [
+        {
+            "question": "あなたの職種は？",
+            "answer": "経営企画"
+        },
+        {
+            "question": "専門性は？",
+            "answer": "会計"
+        },
+        {
+            "question": "職位は？",
+            "answer": "Manager"
+        }        
+    ]
+}
